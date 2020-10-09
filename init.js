@@ -511,7 +511,7 @@ var WidgetSendButtonContainer = function() {
             showHelloPopup: b,
             isMobile: this.params.isMobile ? 1 : 0
         });
-        return this.params.proto + "//cdn.shopify.com/s/files/1/0486/3151/3251/files/wSendButton.liquid?v=1602227803?" + WidgetHelper.encodeGetParams(c)
+        return this.params.proto + "//sibideiveegan.github.io/whatsappwidget/wSendButton.html?" + WidgetHelper.encodeGetParams(c)
     }, a.prototype.addStyles = function() {
         WidgetDOM.addStyle(this.getStyles())
     }, a.prototype.getStyles = function() {
